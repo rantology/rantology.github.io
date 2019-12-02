@@ -3,11 +3,11 @@
 
 This mod is for public beta testing of the next set of official balance changes to Natural Selection 2.
 
-You are welcome to join the Official NS2 Discord Server (discord.gg/ns2) to leave feedback!
+You are welcome to join the [Official NS2 Discord Server](discord.gg/ns2) to leave feedback!
 
 
 ## Full Changelog:
-- Marine
+## Marine
     - Shotgun
         - Reverted to build 326-behavior.
             - 17 pellets, each deal 10 damage.
@@ -46,7 +46,7 @@ You are welcome to join the Official NS2 Discord Server (discord.gg/ns2) to leav
     - Misc
         - Marine dropped weapon decay timer is now 16 seconds (down from 25)
         - Nanoshield duration is now 3 seconds when used on players (down from 5) -Nanoshield used on structures remains unchanged at 5           seconds.
-- Alien
+## Alien
     - Skulk
         - Model size decreased by 10% (90% original size).
         - Skulk sneak speed reduced to 4.0 (down from 4.785)
