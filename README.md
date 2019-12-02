@@ -1,9 +1,9 @@
 # NS2 Balance Beta
 **SteamWorks Mod ID**: *718da717*
 
-This mod contains various balance changes based on various ideas of the NS2 balance team.
+This mod is a beta for the next set of official balance changes to Natural Selection 2.
 
-Join the official ns2 discord server (discord.gg/ns2) to leave feedback!
+You are welcome to join the official ns2 discord server (discord.gg/ns2) to leave feedback!
 
 
 ## Full Changelog:
