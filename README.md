@@ -3,7 +3,7 @@
 
 This mod is for public beta testing of the next set of official balance changes to Natural Selection 2.
 
-You are welcome to join the [Official NS2 Discord Server](discord.gg/ns2) to leave feedback!
+You are welcome to join the Official NS2 Discord Server (discord.gg/ns2) to leave feedback!
 
 
 ## Full Changelog:
