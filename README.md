@@ -9,11 +9,11 @@ You are welcome to join the [Official NS2 Discord Server](discord.gg/ns2) to lea
 ## Full Changelog:
 - **Marine**
     - Shotgun
-     - Reverted to build 326-behavior.
-      - 17 pellets, each deal 10 damage.
-      - Divided into 4 rings of 4 pellets each, +1 pellet in the middle.
-      - Pellet sizes are all 16mm.
-      - No Damage Falloff.
+      - Reverted to build 326-behavior.
+       - 17 pellets, each deal 10 damage.
+       - Divided into 4 rings of 4 pellets each, +1 pellet in the middle.
+       - Pellet sizes are all 16mm.
+       - No Damage Falloff.
     - HMG
         - Reload time is now 3.5 seconds (down from 5 seconds)
     - Mines
