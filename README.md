@@ -7,17 +7,16 @@ You are welcome to join the Official NS2 Discord Server (discord.gg/ns2) to leav
 
 
 ## **Recent Changes (December 4, 2019):**
-- Glancing hits have been re-introduced for alien melee attacks.   
-     - Skulk meelee cone (core) changed to 0.8x1.0 (down from 1.2x1.2)
-     - Glancing hits cause different player impact sounds (metallic) and different hitsounds (NS2+) 
-     - Table of total hit cones (Width x Height) - only skulk's primary cone has changed, others have only 
+- Glancing hits have been re-introduced for alien melee attacks. 
+  - Skulk meelee cone (core) changed to 0.8x1.0 (down from 1.2x1.2)
+    - Glancing hits cause different player impact sounds (metallic) and different hitsounds (NS2+) 
+    - Table of total hit cones (Width x Height) - only skulk's primary cone has changed, others have only 
        had the glancing zone added:
-       ```
-          Melee cone dimensions:  | Core (damage value) | Glancing (damage value) 
-                      Skulk bite  |    0.8x1.0 (75)     |  1.5x1.2 (35)
-                       Lerk bite  |    0.9x1.2 (60)     |  1.5x1.2 (25)
-                 Fade swipe/stab  |    0.7x1.2 (75/120) |  1.5x1.2 (35/50)
-                       Onos gore  |    1.0x1.4 (90)     |  1.5x1.4 (40)
+     - Melee cone dimensions:  Core (damage value)__ *Glancing (damage value)*
+          - Skulk bite:      0.8x1.0 (75)__ *1.5x1.2 (35)*
+          - Lerk bite:       0.9x1.2 (60)__ *1.5x1.2 (25)*
+          - Fade swipe/stab: 0.7x1.2 (75/120)__ *1.5x1.2 (35/50)*
+          - Onos gore:       1.0x1.4 (90)__ *1.5x1.4 (40)*
                           
      - Gorge
        -Web: The second placement point of a web now has slightly increased range
@@ -66,18 +65,16 @@ You are welcome to join the Official NS2 Discord Server (discord.gg/ns2) to leav
         - Marine dropped weapon decay timer is now 16 seconds (down from 25)
         - Nanoshield duration is now 3 seconds when used on players (down from 5) -Nanoshield used on structures remains unchanged at 5           seconds.
 - **Alien**
-    - Glancing hits have been re-introduced for alien melee attacks.   
-      - Skulk meelee cone (core) changed to 0.8x1.0 (down from 1.2x1.2)
+    - Glancing hits have been re-introduced for alien melee attacks. 
+    - Skulk meelee cone (core) changed to 0.8x1.0 (down from 1.2x1.2)
       - Glancing hits cause different player impact sounds (metallic) and different hitsounds (NS2+) 
       - Table of total hit cones (Width x Height) - only skulk's primary cone has changed, others have only 
-        had the glancing zone added:
-       ```
-          Melee cone dimensions:  | Core (damage value) | Glancing (damage value) 
-                      Skulk bite  |    0.8x1.0 (75)     |  1.5x1.2 (35)
-                       Lerk bite  |    0.9x1.2 (60)     |  1.5x1.2 (25)
-                 Fade swipe/stab  |    0.7x1.2 (75/120) |  1.5x1.2 (35/50)
-                       Onos gore  |    1.0x1.4 (90)     |  1.5x1.4 (40)
-                                         
+       had the glancing zone added:
+      - Melee cone dimensions:  Core (damage value)__ *Glancing (damage value)*
+           - Skulk bite:      0.8x1.0 (75)__ *1.5x1.2 (35)*
+           - Lerk bite:       0.9x1.2 (60)__ *1.5x1.2 (25)*
+           - Fade swipe/stab: 0.7x1.2 (75/120)__ *1.5x1.2 (35/50)*
+           - Onos gore:       1.0x1.4 (90)__ *1.5x1.4 (40)*
         
     - Skulk
         - Model size decreased by 10% (90% original size).
