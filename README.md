@@ -66,7 +66,7 @@ You are welcome to join the Official NS2 Discord Server (discord.gg/ns2) to leav
         - Nanoshield duration is now 3 seconds when used on players (down from 5) -Nanoshield used on structures remains unchanged at 5           seconds.
 - **Alien**
     - Glancing hits have been re-introduced for alien melee attacks. 
-    - Skulk meelee cone (core) changed to 0.8x1.0 (down from 1.2x1.2)
+      - Skulk meelee cone (core) changed to 0.8x1.0 (down from 1.2x1.2)
       - Glancing hits cause different player impact sounds (metallic) and different hitsounds (NS2+) 
       - Table of total hit cones (Width x Height) - only skulk's primary cone has changed, others have only 
        had the glancing zone added:
