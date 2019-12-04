@@ -6,6 +6,25 @@ This mod is for public beta testing of the next set of official balance changes 
 You are welcome to join the Official NS2 Discord Server (discord.gg/ns2) to leave feedback!
 
 
+## **Recent Changes (December 4, 2019):**
+- Glancing hits have been re-introduced for alien melee attacks.   
+     - Skulk meelee cone (core) changed to 0.8x1.0 (down from 1.2x1.2)
+     - Glancing hits cause different player impact sounds (metallic) and different hitsounds (NS2+) 
+     - Table of total hit cones (Width x Height) - only skulk's primary cone has changed, others have only 
+       had the glancing zone added:
+       ```
+          Melee cone dimensions:  | Core (damage value) | Glancing (damage value) 
+                      Skulk bite  |    0.8x1.0 (75)     |  1.5x1.2 (35)
+                       Lerk bite  |    0.9x1.2 (60)     |  1.5x1.2 (25)
+                 Fade swipe/stab  |    0.7x1.2 (75/120) |  1.5x1.2 (35/50)
+                       Onos gore  |    1.0x1.4 (90)     |  1.5x1.4 (40)
+                          
+     - Gorge
+       -Web: The second placement point of a web now has slightly increased range
+
+
+
+
 ## Full Changelog:
 - **Marine**
     - Shotgun
@@ -47,6 +66,19 @@ You are welcome to join the Official NS2 Discord Server (discord.gg/ns2) to leav
         - Marine dropped weapon decay timer is now 16 seconds (down from 25)
         - Nanoshield duration is now 3 seconds when used on players (down from 5) -Nanoshield used on structures remains unchanged at 5           seconds.
 - **Alien**
+    - Glancing hits have been re-introduced for alien melee attacks.   
+      - Skulk meelee cone (core) changed to 0.8x1.0 (down from 1.2x1.2)
+      - Glancing hits cause different player impact sounds (metallic) and different hitsounds (NS2+) 
+      - Table of total hit cones (Width x Height) - only skulk's primary cone has changed, others have only 
+        had the glancing zone added:
+       ```
+          Melee cone dimensions:  | Core (damage value) | Glancing (damage value) 
+                      Skulk bite  |    0.8x1.0 (75)     |  1.5x1.2 (35)
+                       Lerk bite  |    0.9x1.2 (60)     |  1.5x1.2 (25)
+                 Fade swipe/stab  |    0.7x1.2 (75/120) |  1.5x1.2 (35/50)
+                       Onos gore  |    1.0x1.4 (90)     |  1.5x1.4 (40)
+                                         
+        
     - Skulk
         - Model size decreased by 10% (90% original size).
         - Skulk sneak speed reduced to 4.0 (down from 4.785)
@@ -62,7 +94,8 @@ You are welcome to join the Official NS2 Discord Server (discord.gg/ns2) to leav
         - Web
             - Now break on contact.
             - Snare now reduces movement speed by 66% and tapers off gradually over 2.5 seconds (up from 1.5 seconds)
-            - Webs now turn invisible, only fading into view at 5 meters or closer.
+            - Webs now turn invisible, only fading into view at 5 meters or closer
+            - The second placement point of a web now has slightly increased range
             - No longer parasite marines.
             - No longer appears in the kill-feed.
     - Lerk
